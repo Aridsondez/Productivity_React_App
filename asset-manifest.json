@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Productivity_React_App/static/css/main.269a8a56.css",
+    "main.js": "/Productivity_React_App/static/js/main.c8f960b1.js",
+    "static/js/952.752e13e3.chunk.js": "/Productivity_React_App/static/js/952.752e13e3.chunk.js",
+    "static/media/logo.png": "/Productivity_React_App/static/media/logo.b70cd419eb628cff4ef8.png",
+    "index.html": "/Productivity_React_App/index.html",
+    "main.269a8a56.css.map": "/Productivity_React_App/static/css/main.269a8a56.css.map",
+    "main.c8f960b1.js.map": "/Productivity_React_App/static/js/main.c8f960b1.js.map",
+    "952.752e13e3.chunk.js.map": "/Productivity_React_App/static/js/952.752e13e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.269a8a56.css",
+    "static/js/main.c8f960b1.js"
+  ]
+}
