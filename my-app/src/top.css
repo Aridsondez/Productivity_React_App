@@ -1,0 +1,119 @@
+*{
+    font-family: cursive;
+    background-color: beige;
+}
+.backgroundBar{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    justify-content: center;
+    background-color: #525567;
+    width: 400px;
+    overflow-y: hidden;
+    border-color: #A9A9A9;
+    border-width: 5px;
+    border-style:solid;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0px 2px 2px  2px black;
+}
+.title{
+    color: beige;
+    text-align: center;
+    background-color:#525567;
+}
+.logo{
+    width: 50px;
+    border-radius: 30px;
+    margin-top: 10px;
+}
+.google{
+    margin-top: 10px;
+}
+
+.userName{
+    background-color: #525567;
+    color: beige;
+    margin-top: 10px;
+    display: hidden;
+    
+}
+.signIn iframe{
+    background-color: #525567;
+    margin-top: 10px;
+}
+.signInBack{
+    margin-top: 10px;
+    background-color: #525567;
+}
+
+.greetings{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #525567;
+    text-align: center;
+    font-size: 15px;
+    color:lightblue;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.signout{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    border-radius: 10px;
+    background-color: rgb(220, 120, 120);
+    border-style: solid;
+    border-color: white;
+    cursor: pointer;
+
+}
+.signin{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    border-radius: 10px;
+    background-color: rgb(220, 120, 120);
+    border-style: solid;
+    border-color: white;
+    cursor: pointer;
+}
+
+.addevnts{
+    cursor: pointer;
+    background-color: lightblue;
+    border-radius: 10px;
+    margin-top: 10px;
+    width: 300px;
+    height: 40px;
+    justify-content: center;
+    border-style: solid;
+    border-color: white;
+    box-shadow: 0px 2px 2px 2px;
+
+}
+.working{
+    background-color: #525567;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+}
+
+@media screen and (max-width:480px) {
+
+    .backgroundBar{
+        transform: translateX(4px);
+    }
+    
+}

@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@supabase/auth-helpers-react": "^0.4.2",
+    "@supabase/supabase-js": "^2.40.0",
+    "npm": "^10.5.0",
+    "react-datetime-picker": "^5.6.0",
+    "run-script": "^0.1.1",
+    "start": "^5.1.0"
+  }
+}
