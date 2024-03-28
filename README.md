@@ -71,4 +71,4 @@ While this project may have been challenging, it provided me with invaluable ins
 # Acknowledgements
 I would like to express my gratitude to Supabase for providing an excellent platform for backend integration. Additionally, I would like to thank the React community for their wealth of resources and support throughout this journey.
   # WHY NOT DEPLOYED
-      For some reason google does not allow subdirectories access to their authentication service which makes perfect sense. So I cannot redirect users to the github.io/page because the parent domain is not owned by me but github. So the main functionality of the website won't work. 
+   For some reason google does not allow subdirectories access to their authentication service which makes perfect sense. So I cannot redirect users to the github.io/page because the parent domain is not owned by me but github. So the main functionality of the website won't work. 
